@@ -13,7 +13,7 @@ breadcrumbText: License Activation
 
 ## Set the License in the Code
 
-Open the **App.js** file. In componentDidMount, add the following code:
+Open the `App.js` file, in `componentDidMount`, add the following code:
 
 ```js
 componentDidMount() {
